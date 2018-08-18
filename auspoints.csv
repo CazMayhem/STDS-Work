@@ -1,0 +1,10 @@
+state_no,state,city,lat,lon,sitenum
+1,NSW,Sydney,-33,146,3
+2,VIC,Melbourne,-37,144,2
+4,SA,Adelaide,-29,134,2
+8,ACT,Canberraa,-35,149,2
+7,NT,Darwin,-18,134,2
+5,WA,Perth,-25,122,3
+3,QLD,Brisbane,-24,146,2
+6,TAS,Hobart,-42,147,2
+6,TAS,Hobart,-42,147,0
